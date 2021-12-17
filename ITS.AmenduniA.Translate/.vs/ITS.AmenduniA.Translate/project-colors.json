@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "29783d30-c3d7-4770-a6ff-8f4859fcc142": {
+      "ProjectGuid": "29783d30-c3d7-4770-a6ff-8f4859fcc142",
+      "DisplayName": "Description",
+      "ColorIndex": 0
+    },
+    "289d7381-3250-4b6a-9f77-65561854c380": {
+      "ProjectGuid": "289d7381-3250-4b6a-9f77-65561854c380",
+      "DisplayName": "ITS.AmenduniA.Translate",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
